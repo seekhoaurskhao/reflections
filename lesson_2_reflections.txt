@@ -15,8 +15,11 @@ by addin only one file per logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When we want to play some experimental changes and don't want to change the master branch till we are satisfied,
+in these kinds of scenarios , branches sure help 
 
 How do the diagrams help you visualize the branch structure?
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
