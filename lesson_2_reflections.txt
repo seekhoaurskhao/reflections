@@ -20,6 +20,8 @@ in these kinds of scenarios , branches sure help
 
 How do the diagrams help you visualize the branch structure?
 
+It helps to see what commits are reachable from which branch or not. We can view the 
+entire bnrach commit reachability with the visualization
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
