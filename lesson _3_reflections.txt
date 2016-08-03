@@ -1,1 +1,4 @@
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+It's a bad idea to let do pull changes automatically becasue there might be changes that we don't want later on or there might be uncalled for changes that were not successful to be there in the first place.So we keep the control in our hands when it comes to commit changes .
